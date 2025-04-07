@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(245, 245, 101);
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 100px;
+}
+header nav a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+header nav{
+    gap: 46px;
+}
