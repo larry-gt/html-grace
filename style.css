@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: arial, helvetica, sans-serif;
+}
+header{
+    background-color: #ff4a08;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 100px;
+}
+header nav{
+    display: flex;
+    gap: 46px;
+}
+
+header nav a{
+    color: white;
+    text-decoration: none;
+}
